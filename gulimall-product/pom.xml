@@ -4,9 +4,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.gulimall</groupId>
+    <groupId>com.product</groupId>
     <artifactId>gulimall-product</artifactId>
     <version>1.0-SNAPSHOT</version>
+
 
     <parent>
         <groupId>org.example</groupId>
@@ -15,8 +16,12 @@
     </parent>
 
     <properties>
-        <maven.compiler.source>18</maven.compiler.source>
-        <maven.compiler.target>18</maven.compiler.target>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
     </properties>
+
+
+
+
 
 </project>
